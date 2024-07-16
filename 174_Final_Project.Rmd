@@ -3,8 +3,8 @@ title: |
   | Time Series Analysis of Proportion of 
   | Issued License Plates in Shanghai
 author: |
-  | Carrie Yan (9497124), Claire Hua (9952425), Ivy Tran (9565979), 
-  | Michelle Martin (9658311), Fady Naeim (9737032)
+  | Carrie Yan, Claire Hua, Ivy Tran, 
+  | Michelle Martin, Fady Naeim
 date: "December 5, 2018"
 output: pdf_document
 fontsize: 15pt
