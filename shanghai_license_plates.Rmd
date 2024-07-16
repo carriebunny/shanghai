@@ -1,6 +1,6 @@
 ---
 title: "| Time Series Analysis of Proportion of \n| Issued License Plates in Shanghai\n"
-author: "| Carrie Yan, Claire Hua, Ivy Tran, \n| Michelle Martin, Fady Naeim\n"
+author: "| Carrie Yan\n"
 date: "December 5, 2018"
 output:
   html_document:
